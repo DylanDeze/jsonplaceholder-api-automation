@@ -1,0 +1,17 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+
+# Rapports
+reports/*.html
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
