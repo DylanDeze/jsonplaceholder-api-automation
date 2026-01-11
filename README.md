@@ -27,7 +27,6 @@ https://jsonplaceholder.typicode.com
 
 ## 📁 Structure du projet
 
-```text
 .
 ├── data/
 │   └── post_payloads.py
