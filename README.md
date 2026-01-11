@@ -107,8 +107,7 @@ cd <nom-du-repo>
 
 python -m venv venv
 source venv/bin/activate 
-
-#### Windows : venv\Scripts\activate
+Windows : venv\Scripts\activate
 
 
 ---
