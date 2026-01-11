@@ -24,7 +24,7 @@ JSONPlaceholder
 https://jsonplaceholder.typicode.com
 
 ---
-**```text
+```text
 ## 📁 Structure du projet
 
 .
@@ -45,7 +45,7 @@ https://jsonplaceholder.typicode.com
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
-**
+```
 ---
 
 ## 🧪 Scénarios de tests couverts
