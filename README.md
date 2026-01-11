@@ -95,9 +95,10 @@ https://jsonplaceholder.typicode.com
 ## ▶️ Installation et exécution
 
 ### 1️⃣ Cloner le projet
-
+```bash
 git clone https://github.com/<ton-username>/<nom-du-repo>.git
 cd <nom-du-repo>
+```
 
 
 ---
