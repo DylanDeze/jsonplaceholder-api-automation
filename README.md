@@ -27,25 +27,25 @@ https://jsonplaceholder.typicode.com
 
 ## 📁 Structure du projet
 
+```text
 .
 ├── data/
-│ └── post_payloads.py
+│   └── post_payloads.py
 │
 ├── utils/
-│ └── api_client.py
+│   └── api_client.py
 │
 ├── tests/
-│ ├── conftest.py
-│ ├── test_get_posts.py
-│ ├── test_create_post.py
-│ ├── test_update_post.py
-│ └── test_delete_post.py
+│   ├── conftest.py
+│   ├── test_get_posts.py
+│   ├── test_create_post.py
+│   ├── test_update_post.py
+│   └── test_delete_post.py
 │
 ├── reports/
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
-
 
 ---
 
