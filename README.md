@@ -24,7 +24,7 @@ JSONPlaceholder
 https://jsonplaceholder.typicode.com
 
 ---
-
+**```text**
 ## 📁 Structure du projet
 
 .
